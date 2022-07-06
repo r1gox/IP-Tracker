@@ -6,7 +6,7 @@
 [Link Downlaod Termux](https://f-droid.org/en/packages/com.termux)
 
 # Preview in Termux
-![Termux IP-Tracker](https://github.com/Rigo-Jimenez/IP-Tracker/blob/main/.Screen/Screenshot_IP-Tracker.png)
+![IP-Tracker-Termux](https://github.com/Rigo-Jimenez/IP-Tracker/blob/main/.Screen/Screenshot_IP-Tracker.png)
 
 # Installation
     pkg update && pkg upgrade -y
@@ -19,7 +19,7 @@
 
 
 # Preview Usage Screenshot
-![Screenshot_IP-Tracker](https://github.com/Rigo-Jimenez/IP-Tracker/blob/main/.Screen/Screenshot_Usage-IP.png)
+![Usage_IP-Tracker](https://github.com/Rigo-Jimenez/IP-Tracker/blob/main/.Screen/Screenshot_Usage-IP.png)
 
 # Social Media Links
 * [Telegram](https://t.me/D4rkGh0st3)
