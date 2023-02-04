@@ -1,12 +1,12 @@
 # IP-Tracker
-> IP-Tracker es una herramienta de búsqueda de IP que puede brindar detalles exactos de la ubicación de una dirección IP, al igual se puede averiguar la ciudad, el estado, el código postal y el país. Y no solo eso, ya que esta herramienta puede incluso mostrar el nombre de host de una dirección IP y el proveedor de servicios de Internet que posee dicha dirección. Esto es debido a que cada dispositivo conectado a Internet tiene una dirección IP asociada, que revela su ubicación geográfica. Las direcciones IP ayudan a que los datos encuentren su destino y lleguen correctamente.
+> IP-Tracker is an IP lookup tool that can provide exact details of the location of an IP address, as well as find out the city, state, zip code, and country. And not only that, as this tool can even display the hostname of an IP address and the Internet Service Provider that owns that address. This is because every device connected to the Internet has an associated IP address, which reveals its geographic location. IP addresses help data find its destination and arrive correctly.
 
 # Download Termux F-Droid
-> NOTA: No se recomienda usar la aplicación Termux que está disponible en "Google Play Store", ya que los desarrolladores ya no mantienen la aplicación, así que descargué la aplicación sin errores con el siguiente enlace:
+> NOTE: It is not recommended to use the Termux app which is available on "Google Play Store" as the app is no longer maintained by the developers, so I downloaded the app with no errors using the following link:
 [Link Downlaod Termux](https://f-droid.org/en/packages/com.termux)
 
 # Preview in Termux
-![IP-Tracker-Termux](https://github.com/Rigo-Jimenez/IP-Tracker/blob/main/.Screen/Screenshot_IP-Tracker.png)
+![IP-Tracker](https://github.com/Rigo-Jimenez/IP-Tracker/blob/main/.Screen/IP-Tracker.png)
 
 # Installation
     pkg update && pkg upgrade -y
@@ -19,9 +19,9 @@
 
 
 # Preview Usage Screenshot
-![Usage_IP-Tracker](https://github.com/Rigo-Jimenez/IP-Tracker/blob/main/.Screen/Screenshot_Usage-IP.png)
+![Usage-IP-Tracker](https://github.com/Rigo-Jimenez/IP-Tracker/blob/main/.Screen/IP-Tracker.jpg)
 
 # Social Media Links
 * [Telegram](https://t.me/D4rkGh0st3)
-* [YouTube](https://youtube.com/channel/UCjiVJAYDeaE2eIlRUTgcfYg)
+* [YouTube](https://youtube.com/@D4rk-Security)
 * [TikTok](https://tiktok.com/@d4rk_security)
